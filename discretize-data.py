@@ -118,7 +118,7 @@ df.to_csv('data/discrete-synthetic-4.csv', header=None, index=None)
 
 
 # Discretize pokemon data
-bins = 5
+bins = 6
 df = pd.read_csv('data/pokemonStats.csv')
 data = df.to_numpy()
 df = pd.read_csv('data/pokemonLegendary.csv')
