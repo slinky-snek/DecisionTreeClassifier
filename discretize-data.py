@@ -1,5 +1,4 @@
 # Aaron Barnett
-# acba242@uky.edu
 
 import pandas as pd
 import numpy as np
